@@ -1,2 +1,2 @@
-# MyCloneGram
-Instagram clone from a Django Course
+# my-django-clonegram
+Django Course from Platzi

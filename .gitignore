@@ -106,7 +106,3 @@ venv.bak/
 # Django
 db.sqlite3
 media/
-
-# secure SSH conection
-llavecita
-llavecita.pub

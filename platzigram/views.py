@@ -14,7 +14,7 @@ def hello_world(request):
         now=datetime.now().strftime('%b %dth, %Y - %H:%M hrs')
     ))
 
-# try: http://127.0.0.1:8000/sorted/?numbers=9,2,7,4,8,3,5,1,6
+
 def sort_integers(request):
     """Return a JSON response with sorted integers."""
     numbers = [int(i) for i in request.GET['numbers'].split(',')]
